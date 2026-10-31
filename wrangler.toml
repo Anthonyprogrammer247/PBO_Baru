@@ -1,0 +1,8 @@
+name = "pbo-crud-app"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "pbo"
+database_name = "pbo"
+database_id = "1b96e4cf-767e-446d-8c93-5fd7c20dee52"
